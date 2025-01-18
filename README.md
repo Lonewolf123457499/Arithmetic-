@@ -8,3 +8,8 @@ class calculator
         
     }
 }
+task 3  sub function added
+ public static int sub(int a,int b)
+    {
+        return a-b;
+    }
