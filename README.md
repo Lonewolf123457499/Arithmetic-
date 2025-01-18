@@ -25,3 +25,9 @@ task 3  sub function added
     {
         return a+b;
     } 
+
+    function added
+     public static int div(int a,int b)
+    {
+        return a/b;
+    } 
