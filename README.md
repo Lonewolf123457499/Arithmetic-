@@ -13,3 +13,9 @@ task 3  sub function added
     {
         return a-b;
     }
+
+    task4 mult function added
+     public static int mult(int a,int b)
+    {
+        return a*b;
+    } 
