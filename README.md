@@ -19,3 +19,9 @@ task 3  sub function added
     {
         return a*b;
     } 
+    task 5
+    function  add
+     public static int add(int a,int b)
+    {
+        return a+b;
+    } 
